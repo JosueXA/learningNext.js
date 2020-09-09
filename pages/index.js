@@ -6,6 +6,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Create Next App</title>
+        <p>Learn with the Udemy and Mentor Daniel Ortega</p>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
